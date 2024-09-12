@@ -1,6 +1,4 @@
-<?php
-include("includes/header.php");
-?>
+
 
 <style>
     .skill-item {
